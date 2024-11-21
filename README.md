@@ -15,4 +15,4 @@
 ## Lessons
 
 ✅ Lesson 1
-✅ Lesson 2
+<br>✅ Lesson 2
